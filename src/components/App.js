@@ -9,7 +9,7 @@ function App() {
   return (
     <div id="main">
       <button onClick={para} id="click">Show</button>
-      <p id="para"style={visi}>Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy</p>
+      <paragraph id="para"style={visi}>Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy</paragraph>
     </div>
   );
 }
